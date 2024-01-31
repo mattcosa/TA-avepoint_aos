@@ -1,0 +1,19 @@
+[props/aos%3Aaudit]
+owner = admin
+version = 9.1.2
+modtime = 1705553424.548300000
+
+[props/source%3A%3A...ta-avepoint_aos%2A.log%2A]
+owner = admin
+version = 9.1.2
+modtime = 1705553425.048847000
+
+[props/source%3A%3A...ta_avepoint_aos%2A.log%2A]
+owner = admin
+version = 9.1.2
+modtime = 1705553425.527675000
+
+[collections/TA_avepoint_aos_checkpointer]
+owner = splunk-system-user
+version = 9.1.2
+modtime = 1705899059.015433000
